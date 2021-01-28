@@ -30,7 +30,8 @@
 
 #ifndef sim7600ce_h
 #define sim7600ce_h
-
+#define ESP32
+//#define MEGA
 #include <Arduino.h>
 //#include <CRC32.h>
 
